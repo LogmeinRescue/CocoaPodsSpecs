@@ -1,0 +1,2 @@
+# CocoaPodsSpecs
+Experimental CocoaPod repo 
