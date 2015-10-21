@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "LogMeIn Rescue SDK for iOS."
   s.description  = <<-DESC
-  You can add remote support to your iOS application with LogMeIn Rescue SDK.  
+  The Rescue In-App Support iOS SDK allows your customers to establish a Rescue support session within your app.  
                    DESC
   s.homepage     = "https://www.logmeinrescue.com/"
   s.license      = "Copyright (c) 2003-2015 LogMeIn Inc."
